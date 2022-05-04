@@ -22,6 +22,7 @@ html {
 body > .container {
   padding-bottom: 50px;
   position: relative;
+  margin-top: 5rem;
 }
 
 
